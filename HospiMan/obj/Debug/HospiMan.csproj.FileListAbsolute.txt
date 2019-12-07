@@ -1,0 +1,13 @@
+E:\Education\14th\Project\HospiMan\HospiMan\bin\Debug\HospiMan.exe.config
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.csprojResolveAssemblyReference.cache
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.Form1.resources
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.Form2.resources
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.Patient_Info.resources
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.Properties.Resources.resources
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.csproj.GenerateResource.Cache
+E:\Education\14th\Project\HospiMan\HospiMan\bin\Debug\HospiMan.exe
+E:\Education\14th\Project\HospiMan\HospiMan\bin\Debug\HospiMan.pdb
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.exe
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.pdb
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.Employee_Info.resources
+E:\Education\14th\Project\HospiMan\HospiMan\obj\Debug\HospiMan.Form3.resources
